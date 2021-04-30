@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_token_git_application_changed_#999
+  secret: '{cipher}AQBklkO3auA/AEvqkEPKjI6ydJ14lLRVxzYX/c6rjxQsJu7IT2k9NsIoDtBwdHEk7ucfgNkax5VfAv5X3QqDNinLpb9TK+VOmoT4cyvrsltWSnW2ISaaiQhMmt87GjOzTXCruOhaL29+PhfpSvxtT9uV26jkgtc+brvD5PKMp+PKqhHjz1UkQhRhQrSZ542g+0ekpoU6y9yT+LP3ycgLlU8dPLt8vSsajD7HDfC87WzQnE54NyoF+GlXBvCL3lxEY8gRip3bV2ynoyAOESfJXMp8622FkKGt2qlzfZOyBtjL9LWzLukqg9HCjjNvOzpnntV7CF3+V5XekVlDh9tm6ewlZEDquuqGLdGVhU+BG3Dkm8+J8XyyTEzJvKKKg6ewp8QTvYRkdtWoGml9r2Mt/pYv'
   
 gateway:
   ip: 192.168.0.8
