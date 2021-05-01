@@ -7,3 +7,6 @@ spring:
   
 gateway:
   ip: 114.204.147.46
+
+order-service:
+    url: http://localhost:8000/order-service/%s/orders
